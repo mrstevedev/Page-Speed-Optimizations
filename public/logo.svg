@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 338 81">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        font-size: 36px;
+        font-family: EricaOne-Regular, Erica One;
+      }
+
+      .cls-2 {
+        font-size: 23px;
+        font-family: DINCondensed-Bold, DIN Condensed;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g id="Logo_1" data-name="Logo 1" transform="translate(-36 -180)">
+    <text id="Uptown_Records" data-name="Uptown Records" class="cls-1" transform="translate(36 180)"><tspan x="0" y="42">Uptown Records</tspan></text>
+    <text id="San_Diego_s_Premier_Record_Shop" data-name="San Diego’s Premier Record Shop" class="cls-2" transform="translate(117 228)"><tspan x="0" y="16">San Diego’s Premier Record Shop</tspan></text>
+  </g>
+</svg>
